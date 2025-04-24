@@ -1,5 +1,10 @@
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nate-JP&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+-->
+<img align="right" src="https://komarev.com/ghpvc/?username=Nate-JP&label=Profile%20views&color=0e75b6&style=flat" alt="hiyouga" />
+
 ### Hi there 👋
-<a href="#"><img src="https://komarev.com/ghpvc/?username=Nate-JP&label=Profile%20views&color=0e75b6&style=flat" alt="Nate-JP" /></a>
+
 <!--
 **Nate-JPR/Nate-JPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
